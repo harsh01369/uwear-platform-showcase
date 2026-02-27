@@ -2,6 +2,8 @@
 
 A production e-commerce fashion platform consisting of three applications: a customer-facing storefront, a backend API server, and an admin dashboard. Live and serving real customers.
 
+[Live Site](https://uwearuk.com/)
+
 My role: Junior Web Developer (September 2024 to present).
 
 ## Architecture
