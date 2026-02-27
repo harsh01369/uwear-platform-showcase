@@ -6,6 +6,10 @@ A production e-commerce fashion platform consisting of three applications: a cus
 
 My role: Junior Web Developer (September 2024 to present).
 
+![UWEAR UK](images/hero.png)
+
+![Architecture](images/architecture.png)
+
 ## Architecture
 
 ```
